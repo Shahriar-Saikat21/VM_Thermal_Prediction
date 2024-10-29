@@ -19,5 +19,4 @@ The project utilizes the **IEEE Data Center Power Consumption Dataset**, contain
 
 ---
 
-This README introduces the project’s research context, technical objectives, and societal impact, appealing to academic and professional audiences interested in cloud computing and machine learning applications.
 
